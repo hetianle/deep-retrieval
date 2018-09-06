@@ -2,21 +2,6 @@
 *
 
 # if the files to be tracked are in subdirectories
-!caffe-deep-retrieval/include/normalize_layer.hpp
-!caffe-deep-retrieval/include/roi_pooling_layer.hpp
-!caffe-deep-retrieval/src/caffe/layers/normalize_layer.cpp
-!caffe-deep-retrieval/src/caffe/layers/normalize_layer.cu
-!caffe-deep-retrieval/src/caffe/layers/roi_pooling_layer.cpp
-!caffe-deep-retrieval/src/caffe/layers/roi_pooling_layer.cu
-!caffe-deep-retrieval/src/caffe/proto/caffe.proto
-
-!*/include/caffe/layers/normalize_layer.hpp
-!*/include/caffe/layers/roi_pooling_layer.hpp
-!*/src/caffe/layers/normalize_layer.cpp
-!*/src/caffe/layers/normalize_layer.cu
-!*/src/caffe/layers/roi_pooling_layer.cpp
-!*/src/caffe/layers/roi_pooling_layer.cu
-!*/src/caffe/proto/caffe.proto
 
 !custom_layers.py
 !test.py
