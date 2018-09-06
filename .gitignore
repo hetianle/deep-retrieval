@@ -7,3 +7,7 @@
 !test.py
 !README.md
 !LICENSE.txt
+!*.hpp
+!*.cpp
+!*.cu
+!*.proto
