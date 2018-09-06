@@ -5,8 +5,8 @@
 
 !custom_layers.py
 !test.py
-!README.md
 !LICENSE.txt
+!README.md
 !*.hpp
 !*.cpp
 !*.cu

@@ -140,3 +140,7 @@ If you use these models in your research, please cite:
 ```
 
 Please see `LICENSE.txt` for the license information.
+
+-------------------------------------------------------
+
+I had added the cpp, cu and hpp, proto files that are needed for this repo. Men that are interested in this repo can clone my repo and move aforementioned files into your own caffe or the official BVLC caffe to compile with those new layers. Besides, one can download the model file provided by author from here: http://www.europe.naverlabs.com/Research/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval 
