@@ -9,6 +9,15 @@
 !/caffe-deep-retrieval/src/caffe/layers/roi_pooling_layer.cpp
 !/caffe-deep-retrieval/src/caffe/layers/roi_pooling_layer.cu
 !/caffe-deep-retrieval/src/caffe/proto/caffe.proto
+
+!/*/include/normalize_layer.hpp
+!/*/include/roi_pooling_layer.hpp
+!/*/src/caffe/layers/normalize_layer.cpp
+!/*/src/caffe/layers/normalize_layer.cu
+!/*/src/caffe/layers/roi_pooling_layer.cpp
+!/*/src/caffe/layers/roi_pooling_layer.cu
+!/*/src/caffe/proto/caffe.proto
+
 !custom_layers.py
 !test.py
 !README.md
