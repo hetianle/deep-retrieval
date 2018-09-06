@@ -1,9 +1,5 @@
 # Ignore everything
-/annotations_landmarks
-/pretrained_model/model.caffemodel
-/datasets/*
-/tmp/*
-/caffe-deep-retrieval/*
+*
 
 # if the files to be tracked are in subdirectories
 !/caffe-deep-retrieval/include/normalize_layer.hpp
@@ -13,3 +9,7 @@
 !/caffe-deep-retrieval/src/caffe/layers/roi_pooling_layer.cpp
 !/caffe-deep-retrieval/src/caffe/layers/roi_pooling_layer.cu
 !/caffe-deep-retrieval/src/caffe/proto/caffe.proto
+!custom_layers.py
+!test.py
+!README.md
+!LICENSE.txt
