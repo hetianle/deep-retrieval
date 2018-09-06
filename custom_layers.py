@@ -1,3 +1,6 @@
+import sys
+caffe_root = "/workspace/mnt/group/customization/pengyuyan/deep-retrieval/caffe/"
+sys.path.insert(0, caffe_root + 'python')
 import caffe
 import numpy as np
 

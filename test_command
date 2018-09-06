@@ -1,0 +1,6 @@
+python test.py --gpu 0 --S 800 --L 2 \
+--proto ./prototxt/deploy_resnet101_normpython.prototxt \
+--weights ./pretrained_model/model.caffemodel \
+--dataset datasets/Oxford --eval_binary datasets/evaluation/compute_ap \
+--temp_dir tmp --dataset_name Oxford
+

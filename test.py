@@ -1,5 +1,7 @@
 import sys
 import numpy as np
+caffe_root = "/workspace/mnt/group/customization/pengyuyan/deep-retrieval/caffe-deep-retrieval/"
+sys.path.insert(0, caffe_root + 'python')
 import caffe
 import argparse
 import cv2
